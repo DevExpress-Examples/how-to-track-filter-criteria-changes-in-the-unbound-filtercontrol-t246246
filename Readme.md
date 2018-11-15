@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FilterCriteriaChangedHelper.cs](./CS/DXSLSample/FilterCriteriaChangedHelper.cs) (VB: [FilterCriteriaChangedHelper.vb](./VB/DXSLSample/FilterCriteriaChangedHelper.vb))
+* **[MainPage.xaml](./CS/DXSLSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXSLSample/MainPage.xaml))**
+* [MainPage.xaml.cs](./CS/DXSLSample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXSLSample/MainPage.xaml))
+* [View.xaml](./CS/DXSLSample/View.xaml) (VB: [View.xaml](./VB/DXSLSample/View.xaml))
+* [View.xaml.cs](./CS/DXSLSample/View.xaml.cs) (VB: [View.xaml](./VB/DXSLSample/View.xaml))
+<!-- default file list end -->
 # How to track filter criteria changes in the unbound FilterControl
 
 
